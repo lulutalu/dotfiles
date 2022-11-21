@@ -4,6 +4,7 @@ require('theme')
 require('treesitter')
 require('mason_settings')
 require('lsp_config')
+require('lualine_config')
 require("telescope").setup()
 
 
